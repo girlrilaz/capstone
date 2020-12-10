@@ -1,0 +1,16 @@
+
+Flask==1.1.2
+numpy 
+pandas 
+matplotlib
+scikit-image==0.17.2
+scikit-learn 
+scipy 
+seaborn 
+uuid
+joblib
+sklearn
+argparse
+joblib
+termcolor
+requests
